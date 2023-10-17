@@ -1,7 +1,3 @@
-{
-  "cls_token": "[CLS]",
-  "mask_token": "[MASK]",
-  "pad_token": "[PAD]",
-  "sep_token": "[SEP]",
-  "unk_token": "[UNK]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd5f25ff3c587604e66ce3f0ff73fac5463b1b211e22f016f2670658577aa1b
+size 293

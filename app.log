@@ -1,0 +1,39 @@
+2023-10-17 08:52:13,603:INFO:User Input: bitcoin is bullshit
+ | Model Prediction: Negative \U0001f61e
+2023-10-17 09:02:15,585:INFO:User Input: bitcoin is bullshit | Model Prediction: Negative \U0001f61e
+2023-10-17 09:04:19,590:INFO:User Input: bitcoin is bullshit | Model Prediction: Negative \U0001f61e
+2023-10-17 09:08:48,681:INFO:User Input: shit | Model Prediction: Negative \U0001f61e
+2023-10-17 09:15:36,262:INFO:User Input: I love bitcoin | Model Prediction: Positive \U0001f603
+2023-10-17 09:21:46,592:INFO:User Input: i love bitcoin | Model Prediction: Positive \U0001f603
+2023-10-17 09:26:40,404:INFO:User Input: Bitcoin is good | Model Prediction: Positive \U0001f603
+2023-10-17 09:28:49,400:INFO:User Input: Critics argue that Bitcoin's price is highly unpredictable, experiencing significant fluctuations in short periods. This volatility can pose challenges for investors and make it less appealing as a stable store of value or medium of exchange. Detractors often highlight instances of rapid price drops, emphasizing the risk associated with investing in such a volatile asset. Additionally, concerns about regulatory uncertainties, potential security vulnerabilities, and the environmental impact of Bitcoin mining are also raised as negative aspects. Critics argue that these factors may hinder Bitcoin's widespread adoption and acceptance as a mainstream financial instrument. | Model Prediction: Positive \U0001f603
+2023-10-17 09:29:02,736:INFO:User Input: Critics argue that Bitcoin's price is highly unpredictable, experiencing significant fluctuations in short periods. This volatility can pose challenges for investors and make it less appealing as a stable store of value or medium of exchange. Detractors often highlight instances of rapid price drops, emphasizing the risk associated with investing in such a volatile asset. Additionally, concerns about regulatory uncertainties, potential security vulnerabilities, and the environmental impact of Bitcoin mining are also raised as negative aspects. Critics argue that these factors may hinder Bitcoin's widespread adoption and acceptance as a mainstream financial instrument. | Model Prediction: Positive \U0001f603
+2023-10-17 09:29:17,723:INFO:User Input: bitcoin is bad | Model Prediction: Negative \U0001f61e
+2023-10-17 09:30:01,863:INFO:User Input: bitcoin is pathetic
+ | Model Prediction: Negative \U0001f61e
+2023-10-17 09:34:21,134:INFO:User Input: bitcoin is really a waste of cash and time | Model Prediction: Negative \U0001f61e
+2023-10-17 09:52:42,874:ERROR:Task exception was never retrieved
+future: <Task finished name='Task-96' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\USER\anaconda3\Lib\site-packages\tornado\websocket.py:1085> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\USER\anaconda3\Lib\site-packages\tornado\websocket.py", line 1087, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\anaconda3\Lib\site-packages\tornado\websocket.py", line 1089, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2023-10-17 10:00:30,808:INFO:User Input: i love bitcoin | Model Prediction: Positive \U0001f603
+2023-10-17 10:06:34,683:INFO:User Input: bitcoin is good | Model Prediction: Positive \U0001f603
+2023-10-17 10:14:58,084:INFO:User Input: I love you | Model Prediction: Positive \U0001f603
+2023-10-17 10:41:33,640:INFO:User Input:  | Model Prediction: Neutral \U0001f610
+2023-10-17 10:42:03,714:INFO:User Input: hello | Model Prediction: Neutral \U0001f610
+2023-10-17 10:55:28,038:INFO:User Input:  | Model Prediction: Neutral \U0001f610
+2023-10-17 10:56:12,781:INFO:User Input: I love bitcoin | Model Prediction: Positive \U0001f603
+2023-10-17 11:00:27,501:INFO:User Input: i love bitccoin | Model Prediction: Positive \U0001f603
+2023-10-17 11:03:24,793:INFO:User Input:  | Model Prediction: Neutral \U0001f610
+2023-10-17 11:03:53,834:INFO:User Input: bitcoin is neither here or there | Model Prediction: Neutral \U0001f610
+2023-10-17 11:06:00,917:INFO:User Input: Bitcoin is a fallacy | Model Prediction: Neutral \U0001f610
+2023-10-17 11:17:53,185:INFO:User Input: I love bitxoin | Model Prediction: Positive \U0001f603
