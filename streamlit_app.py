@@ -1,3 +1,8 @@
+import subprocess
+
+# Install required dependencies from requirements.txt
+subprocess.call(['pip', 'install', '-r', 'requirements.txt'])
+
 import streamlit as st
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 import torch
