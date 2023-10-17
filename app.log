@@ -37,3 +37,5 @@ tornado.websocket.WebSocketClosedError
 2023-10-17 11:03:53,834:INFO:User Input: bitcoin is neither here or there | Model Prediction: Neutral \U0001f610
 2023-10-17 11:06:00,917:INFO:User Input: Bitcoin is a fallacy | Model Prediction: Neutral \U0001f610
 2023-10-17 11:17:53,185:INFO:User Input: I love bitxoin | Model Prediction: Positive \U0001f603
+2023-10-17 22:28:02,792:INFO:User Input: bitcoin is shit
+ | Model Prediction: Negative \U0001f61e
