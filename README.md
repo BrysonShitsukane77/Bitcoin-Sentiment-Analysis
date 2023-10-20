@@ -1,3 +1,5 @@
+![image](https://github.com/Crypto-Web-Weavers/Bitcoin-Sentiment-Analysis/assets/124519816/c095d42c-a785-4367-8577-3cf79c7d1ec2)
+
 # Bitcoin Sentiment Analysis
 
 ## 1.0. Business Understanding
@@ -84,7 +86,7 @@ ROC-AUC: 74%
 Overall the model showed  decent sentiment class differentiation capability.
 
 
-## 6.0 Deployment
+## 6.0. Deployment
 
 In the deployment process for the Bitcoin Sentiment Analysis application we did the following:
 
@@ -101,7 +103,7 @@ In the deployment process for the Bitcoin Sentiment Analysis application we did 
 Our preferred sentiment analysis model was DistilBERT, which delivered an impressive 88.11% test accuracy. Our study also revealed a moderate positive correlation (0.315) between public sentiment on Reddit and Bitcoin price movements, indicating the potential for sentiment to influence prices. Conversely, sentiment showed a slight negative correlation (-0.220) with Bitcoin trading volume, suggesting that volume increased during negative sentiment periods. Key terms like "like," "good," and "stupid" were found to be influential in sentiment analysis, reflecting the diverse range of sentiments within the Bitcoin community.
 
 
-## 8.0 Recommendation For Our Stakeholder
+## 8.0. Recommendation For Our Stakeholder
 
 **Real-Time Sentiment Monitoring:** Integrate DistilBERT into a real-time system to track sentiment on cryptocurrency platforms, enabling quick responses to emerging trends.
 
@@ -123,8 +125,4 @@ Our preferred sentiment analysis model was DistilBERT, which delivered an impres
 **Time Series Forecasting:** Utilize time series forecasting to incorporate multiple indicators and data sources for more informed investment decisions, strengthening recommendations to Binance Investment Group.
 
 **Sentiment as Leading Indicator:** Investigate sentiment as a leading indicator for Bitcoin price by analyzing time lags and performing advanced tests like Granger causality, potentially integrating it into our investment strategies if proven effective.
-
-
-
-
 
