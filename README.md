@@ -47,7 +47,7 @@ In the NLP pre-processing phase, the removal of URLs, unnecessary terms, punctua
 
 ![image](https://github.com/Crypto-Web-Weavers/Bitcoin-Sentiment-Analysis/assets/124693318/24965402-83d3-4ae4-aa1d-e6c9196143af)
 
-**Relationship between Sentiment,Trading Volume and Bitcoin Prices**
+**Relationship between Sentiment, Trading Volume, and Bitcoin Prices**
 
 ![image](https://github.com/Crypto-Web-Weavers/Bitcoin-Sentiment-Analysis/assets/124693318/18f713ba-f506-435b-aa52-871f2f623a13)
 
