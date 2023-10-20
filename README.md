@@ -109,7 +109,7 @@ In the deployment process for the Bitcoin Sentiment Analysis application, we did
 - Key terms like "like," "good," and "stupid" were found to be influential in sentiment analysis, reflecting the diverse range of sentiments within the Bitcoin community.
 
 
-## 8.0. Recommendation For Our Stakeholder
+## 8.0. Recommendations
 
 **Real-Time Sentiment Monitoring:** Integrate DistilBERT into a real-time system to track sentiment on cryptocurrency platforms, enabling quick responses to emerging trends.
 
@@ -122,7 +122,7 @@ In the deployment process for the Bitcoin Sentiment Analysis application, we did
 **Diversify Data Sources:** Expand sentiment analysis beyond Reddit to include Twitter, forums, and news articles for a broader market sentiment perspective.
 
 
-## 9.0. Whats Next ?
+## 9.0. What's Next?
 
 **Continuous Model Refinement:** Regularly train and evaluate our model with new data to enhance its robustness and generalization, ensuring it stays relevant as Bitcoin community terminology evolves.
 
