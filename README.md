@@ -35,8 +35,9 @@ In the NLP pre-processing phase, the removal of URLs, unnecessary terms, punctua
   ***EDA***
 
   Lets visualize the word clouds for comments categorized as 'positive', 'negative', and 'neutral' to gain insights into the language   and topics associated with each sentiment category.
-
-
+**Positive**
+https://github.com/Crypto-Web-Weavers/Bitcoin-Sentiment-Analysis/blob/main/download%20(1).png
+!\[(https://github.com/Crypto-Web-Weavers/Bitcoin-Sentiment-Analysis/blob/main/download%20(1).png)]
   <div align="center">
   <h3>Positive Words</h3>
   <img src=" ![image](https://github.com/Crypto-Web-Weavers/Bitcoin-Sentiment-Analysis/assets/124693318/b22fd999-a43d-4323-9182-ba27232ff184)" alt="Positive Words" width="200">
