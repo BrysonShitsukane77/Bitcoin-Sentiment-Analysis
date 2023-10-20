@@ -54,7 +54,7 @@ https://github.com/Crypto-Web-Weavers/Bitcoin-Sentiment-Analysis/blob/main/downl
 " alt="Neutral Words" width="200">
 </div>
   
-  
+  ![download (1)](https://github.com/Crypto-Web-Weavers/Bitcoin-Sentiment-Analysis/assets/127657429/0c2b0d2b-0510-4e90-82c7-7186c5c739ae)
   
 
 
